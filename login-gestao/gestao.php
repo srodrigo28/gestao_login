@@ -17,7 +17,7 @@
 			<div class="user_card">
         <div class="jumbotron jumbotron-fluid bg-success h-25">
           <div class="d-flex justify-content-end">
-            <a href="../login/login.html" class="btn btn-primary">Voltar</a>
+            <a href="../index.php" class="btn btn-primary">Voltar</a>
           </div>
               <h1 class="mt-4 text-center text-light" >Gestão</h1>
         </div>

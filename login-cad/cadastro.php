@@ -48,10 +48,10 @@
 							<input type="password" name="" class="form-control input_pass" value="" placeholder="***********">
 						</div>
                         <div class="d-flex justify-content-center mt-3 login_container">
-							<a href="../login/login.html">
+							<a href="../index.php">
 								<button type="button" name="button" class="btn btn-primary login_btn mr-2">Cadastro</button>
 							</a>
-							<a href="../login/login.html">
+							<a href="../index.php">
 								<button type="button" name="button" class="btn btn-danger login_btn">Cancelar</button>
 							</a>
 						</div>
